@@ -1,1 +1,35 @@
-# constituicao-ab
+# Constituição AB
+
+Mudanças:
+ - Remoção de termos vagos como "dignidade", "valores sociais do trabalho e livre iniciativa" (que são de certa forma contrários) entre outros;
+ - Substituição do termo "sexo" para "gênero" sempre que possível;
+ - Substituição dos termos "homem" e "mulher" para "indivíduo" sempre que possível;
+ - Substituição do termo "direitos humanos" para "direitos fundamentais" para favorecer os direitos listados na Constituição sobre os da ONU;
+ - Remoção do termo "igualdade", o correto é o combate a pobreza e não a riqueza;
+ - Reforça a liberdade de expressão e a igualdade entre homens e mulheres;
+ - Remoção do direito a imagem, moral e honra;
+ - Remoção de requisitos para conseguir exercer algum trabalho;
+ - Associações paramilitares que seguirem a Constituição serão consideradas licitas;
+ - Remoção do conceito de "função social da propriedade privada", substituido por "utilidade pública";
+ - Remoção do direito adquirido;
+ - Legalização das drogas;
+ - Remoção da pena de morte em caso de guerra declarada;
+ - Remoção da prisão por divida para pensões alimenticias com inadimplência involuntária, caso o individuo não consiga pagar agora ele pagará no futuro com juros (TODO);
+ - Substituição de salário minimo "nacionamente unificado" para "descentralizado por Estados";
+ - Remoção do piso salarial, décimo terceiro, férias renumeradas com 1/3 a mais do salário e FGTS;
+ - Remoção da proteção do trabalhador em face da automação;
+ - Remoção da ideia de que só pode ter um único sindicato em uma base territorial;
+ - Voto facultativo;
+ - Fim do serviço militar obrigatório;
+ - Diminuição da idade minima para elegibilidade para 18 anos;
+ - Remoção do fundo partidário;
+ - Remoção de qualquer menção sobre regulação de meios de telecomunicação e radiodifusão (mídia);
+ - Descentralização, mais poderes aos Estados;
+ - Remoção de "subsidios" para cargos eletivos;
+ - Proibição de criar regimes próprios de previdência;
+ - Remoção da estabilidade de funcionários públicos;
+ - Fim da Justiça do Trabalho;
+ - Adição de habeas corpus em punições disciplinar militar;
+ - Remoção de impostos sobre grandes fortunas e "causa mortis";
+ - Remoção da proibição de investimento de capitais estrangeiros em saúde e assistência social;
+ - Fim do gasto público para incentivar a produção de cultura, as verbas serão utilizadas somente para proteção de bens culturais e artisticos;
